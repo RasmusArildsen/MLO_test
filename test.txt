@@ -1,4 +1,8 @@
 test test test
 
+<<<<<<< HEAD
 bla bla bla
 
+=======
+yes yes yes
+>>>>>>> d5d42ff (mistake test)
